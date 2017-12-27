@@ -1,0 +1,14 @@
+{
+  "name": "test-puppeteer",
+  "version": "1.0.0",
+  "description": "test puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "lyhper",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
